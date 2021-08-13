@@ -1,0 +1,25 @@
+{
+  "name": "blueprint-cli",
+  "version": "1.0.0",
+  "description": "Create a boilerplate template from cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "bp": "./bin/index.js"
+  },
+  "keywords": [
+    "CLI",
+    "Blueprint",
+    "Template",
+    "BoilerPlate",
+    "Command Line Interface",
+    "CommandLineInterface"
+  ],
+  "author": "Sergio Lopez",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.1.0"
+  }
+}
